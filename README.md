@@ -1,2 +1,2 @@
 # PRODIGY_DS_03
-Data Science internship project on creating a Decision Tree Classifier using python
+This repository is about decision tree classifier regarding the loan status of the bank customer.
